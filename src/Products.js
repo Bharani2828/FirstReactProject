@@ -21,19 +21,8 @@ export const Products=[
         productName:'Speaker',
         price:130.0,
         productImage: product3
-    },
-    {
-        id:4,
-        productName:'Asus',
-        price:1000.0,
-        productImage: product2
-    },
-    {
-        id:4,
-        productName:'Asus',
-        price:1000.0,
-        productImage: product1
-    },
+    }
+    
 
 
 ]

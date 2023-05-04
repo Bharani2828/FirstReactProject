@@ -2,6 +2,7 @@ import React, { createContext, useState } from 'react'
 import { Products } from '../Products'
 
 export const Shopcontext= createContext(null)
+
  const getDefaultCart=()=>{
          let cart={}
          for (let i=1;i<Products.length+1;i++){

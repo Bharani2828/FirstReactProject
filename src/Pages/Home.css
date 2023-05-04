@@ -48,3 +48,13 @@
     color:white;
     cursor:pointer;
 }
+
+#searching{
+    height: 20px;
+    border-radius: 8px;
+    width: 200px;
+    /* border :none; */
+    background-color: white;
+    color: black;
+    border-color: gray;
+}
